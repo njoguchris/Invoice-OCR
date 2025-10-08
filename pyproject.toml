@@ -13,6 +13,7 @@ dependencies = [
     "pdf2image",
     "opencv-python-headless",
     "requests",
+    "PyPDF2",
 ]
 
 [build-system]
